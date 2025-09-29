@@ -8,4 +8,3 @@ This client is designed to be deployale on platforms like [InfinityFree](https:/
 * Don't use Command-Line access, this doesn't exist
 * Make the change worth it, don't make a change just because you don't like the fact a button is 2 pixels off and stuff like that.
 
-These works aren't protected by a Copyright, do whatever the heck you want with them.
