@@ -5,6 +5,6 @@ This client is designed to be deployale on platforms like [InfinityFree](https:/
 
 * HTML/CSS/JS/PHP Files must remain below 1 MB. Any bigger, and the files won't work
 * Files should only contain the languages above
-* Don't use Command-Line access, this doesn't exist
+* Free Hosting doesn't carry Command Line Access. PHP scripts should not carry commands that would be used in a terminal.
 * *Please* make the change worth it, don't make a change just because you don't like the fact a button is 2 pixels off and stuff like that.
 
