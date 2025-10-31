@@ -822,7 +822,7 @@ body {
                         <br>
                         <p>This File Manager is a work in progress. Report bugs to <b>Jri-creator at JriMail</b>.</p>
                         <br>
-                        <p><b>Want to improve on this yourself? Check it out on GitHub: https://github.com/Jri-creator/JriFTP_Client</b></p>
+                        <p><b>Want to improve on this yourself? Check it out on <a href="https://github.com/Jri-creator/JriFTP_Client">GitHub</a></b></p>
                     </div>
                 </div>
             </div>
@@ -836,7 +836,7 @@ body {
                 <br>
                 <p>This File Manager is a work in progress. Report bugs to <b>Jri-creator at JriMail</b>.</p>
                 <br>
-                <p><b>Want to improve on this yourself? Check it out on GitHub: https://github.com/Jri-creator/JriFTP_Client</b></p>
+                <p><b>Want to improve on this yourself? Check it out on <a href="https://github.com/Jri-creator/JriFTP_Client">GitHub</a></b></p>
             </div>
         <?php endif; ?>
     </div>
